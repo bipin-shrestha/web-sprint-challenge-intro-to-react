@@ -29,6 +29,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+-React JS is a library that is build in javascript to build userinterface. It helps to solve the major problems when dealing with complex state. It does 
 
 1. Describe component state.
 
