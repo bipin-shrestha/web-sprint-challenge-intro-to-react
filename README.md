@@ -30,13 +30,20 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+- React JS is a library that is build in javascript to build userinterface. It helps to solve the major problems when dealing with complex state. It's main objective of React JS is to make the page simple, scalable and fast. While creating the pages it can change the data without reloading the page.
+
 1. Describe component state.
+
+- It is the state that stores the data and when the programmer makes change in the component state it updates or reloads only the specific part of the DOM rather then the whole page.
 
 1. Describe props.
 
+- Props generall means properties. It is normally used in React JS for passing data from one component to another. Props data is read only which normally means the data coming from parents are not supposed to be changed by child components.
+
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 
-You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
+- Side effecs are anything that affect something outside of the scope of the function being executed. we can sync effects in the React components to changes of certain state or props by passing a dependency array as the second argument to the effect hook.
+  You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
 
